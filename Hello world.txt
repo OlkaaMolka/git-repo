@@ -4,4 +4,4 @@ print("Добавили ;:")
 print("изменили фичу 1;:")
 print("изменили фичу 2;:")
 print("Заменили ; на :")
-
+print("Hello my dear friend")
